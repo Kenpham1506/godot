@@ -1,0 +1,4 @@
+Import('env_modules')
+
+env = env_modules.Clone()
+env.add_source_files(env.modules_sources, '*.cpp')
