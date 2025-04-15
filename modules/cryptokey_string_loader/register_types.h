@@ -1,0 +1,9 @@
+#ifndef CRYPTOKEY_STRING_LOADER_REGISTER_TYPES_H
+#define CRYPTOKEY_STRING_LOADER_REGISTER_TYPES_H
+
+#include "modules/register_module_types.h"
+
+void initialize_cryptokey_string_loader_module(ModuleInitializationLevel p_level);
+void uninitialize_cryptokey_string_loader_module(ModuleInitializationLevel p_level);
+
+#endif
