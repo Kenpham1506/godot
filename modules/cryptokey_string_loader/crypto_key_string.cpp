@@ -9,7 +9,7 @@
 #include <openssl/err.h>
 
 void CryptoKeyString::_bind_methods() {
-	ClassDB::bind_method(D_METHOD("load_from_string", "pem_string"), &CryptoKeyString::load_from_string);
+	ClassDB::bind_method(D_METHOD("load_key_from_string", "pem_string"), &CryptoKeyString::load_key_from_string);
 }
 
 Error CryptoKeyString::load_from_string(const String &pem_string) {
