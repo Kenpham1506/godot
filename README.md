@@ -77,5 +77,5 @@ for more information.
 [![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
 
-*This is not an offical version of Godot*
+*This is not an offical version of Godot.*
 *This is my personal version of Godot that include my modification feel free to use it if you want*
