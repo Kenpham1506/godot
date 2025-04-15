@@ -13,7 +13,7 @@ protected:
 
 public:
 	CryptoKeyString() {}
-	Error load_from_string(const String &pem_string);
+	Error load_key_from_string(const String &pem_string);
 };
 
 #endif
